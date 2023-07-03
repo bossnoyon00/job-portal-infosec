@@ -75,14 +75,7 @@ const AllJobs = () => {
     return (
         <div className='col-lg-6 ms-lg-3 mt-lg-5'>
             <h2 className='d-none d-lg-block'>All Jobs</h2>
-            {/* <input
-                type='search'
-                name='search'
-                id=''
-                className='w-100'
-                placeholder='ui/ux design'
-                onChange={handleTitleSearch}
-            /> */}
+
             <InputGroup className="mb-3">
                 <Form.Control type='search' name='search' onChange={handleTitleSearch} placeholder='ui/ux design' aria-label="Amount (to the nearest dollar)" />
                 <InputGroup.Text> <FaSearch></FaSearch> </InputGroup.Text>
