@@ -88,7 +88,7 @@ const Signup = () => {
         <div className="container mt-5">
             <div className="row justify-content-center">
                 <div className="col-lg-6">
-                    <div className="card mt-5">
+                    <div className="card mt-5 border-danger">
                         <div className="card-body">
                             <h1 className="text-center mb-4">Register now!</h1>
                             <form onSubmit={handleRegister}>

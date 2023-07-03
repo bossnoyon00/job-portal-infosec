@@ -8,6 +8,7 @@ import Spinner from 'react-bootstrap/Spinner';
 import { AuthContext } from '../../providers/AuthProvider';
 const AllJobs = () => {
 
+
     const { loading } = useContext(AuthContext);
     if (loading) {
         return <div className='text-center w-50 mt-3'>
@@ -21,13 +22,20 @@ const AllJobs = () => {
             <Spinner animation="grow" variant="dark" />
         </div>
     }
-    const [jobs, setAllJobs] = useState([]);
+
+
+
+
+
     const [sortBy, setSortBy] = useState('');
+    const [jobs, setAllJobs] = useState([]);
+    const [jobPage, setJobPage] = useState([]);
     const [sortByRating, setSortByRating] = useState('');
     const [searchLocation, setSearchLocation] = useState('');
     const [searchTitle, setSearchTitle] = useState('');
     const [uniqueLocations, setUniqueLocations] = useState([]);
     const [selectedExperience, setSelectedExperience] = useState('');
+
 
     useEffect(() => {
         fetch('alljobs.json')
@@ -37,6 +45,18 @@ const AllJobs = () => {
                 setUniqueLocations([...new Set(data.map(job => job.location))]);
             });
     }, []);
+
+
+    // const totalJob = jobPage.length;
+    // const itemsPerPage = 10;
+
+    // const totalPages = Math.ceil(totalJob / itemsPerPage);
+
+    // const pagesNumber = [...Array(totalPages).keys()];
+
+
+
+
 
     const handleLocationChange = event => {
         const selectedLocation = event.target.innerText;
@@ -167,6 +187,13 @@ const AllJobs = () => {
                         ))}
                 </div>
             </div>
+            {/* <div className='text-center'>
+                <div>
+                    {
+                        pagesNumber.map(number => <button key={number}>{number}</button>)
+                    }
+                </div>
+            </div> */}
         </div>
     );
 };

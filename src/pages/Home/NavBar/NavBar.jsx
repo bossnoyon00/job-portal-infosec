@@ -138,19 +138,19 @@ const NavBar = () => {
                 <nav style={{ backgroundColor: 'rgba(19, 61, 122, 1)' }} className='d-flex gap-3 fixed-bottom position-fixed position-absolute bottom-0 justify-content-center align-items-center py-2 text-white '>
                     <div className='text-center'>
                         <img src={home} alt="" />
-                        <NavLink style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Home</NavLink>
+                        <NavLink to='/' style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Home</NavLink>
                     </div>
                     <div className='text-center'>
                         <img src={jobs} alt="" />
-                        <NavLink style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Jobs</NavLink>
+                        <NavLink to='/allJobs' style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Jobs</NavLink>
                     </div>
                     <img style={{ bottom: '36px', marginRight: '30px' }} className='position-absolute me-3 mt-1' src={fav} alt="" />
                     <div className='text-center'>
-                        <NavLink style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Add a Candidate</NavLink>
+                        <NavLink to='/addCandidate' style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Add a Candidate</NavLink>
                     </div>
                     <div className='text-center'>
                         <img src={refer} alt="" />
-                        <NavLink style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Referrals</NavLink>
+                        <NavLink to='/refer' style={{ fontSize: '13px' }} className='text-decoration-none text-white'>Referrals</NavLink>
                     </div>
 
                     <div className='text-center'>

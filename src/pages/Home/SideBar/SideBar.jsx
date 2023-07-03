@@ -9,7 +9,9 @@ import Offcanvas from 'react-bootstrap/Offcanvas';
 import editPP from '../../../assets/edit.png';
 import LogOut from '../../../assets/exit 1 (1).png';
 import resume from '../../../assets/resume.png';
+import loginUser from '../../../assets/User.png';
 import security from '../../../assets/settings.png';
+import { Dropdown } from 'react-bootstrap';
 import { AuthContext } from '../../../providers/AuthProvider';
 import { FaArrowLeft, FaHamburger, FaHammer, FaSearch } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
@@ -39,7 +41,11 @@ const SideBar = () => {
                 console.log(error);
             });
     };
+    const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
+    const handleDropdownToggle = () => {
+        setIsDropdownOpen(!isDropdownOpen);
+    };
     return (
         <div className='col-lg-3'>
             <div className={`d-flex d-lg-none align-items-center justify-content-between ${shouldHideDiv ? 'd-none' : ''}`}>
@@ -82,16 +88,19 @@ const SideBar = () => {
                                 <>
                                     <img style={{ width: '70px', height: '70px' }} className='rounded-5' src={user?.photoURL} alt="" />
                                     <h4 className='text-center'>{user?.displayName}</h4>
+                                    <p style={{ color: 'rgba(22, 118, 243, 1)' }} className='d-lg-none fw-bold'>Update Profile</p>
                                 </>
                                 :
                                 <>
                                     <img src={arvindSir} alt="" />
                                     <h4 className='text-center'>Dr. Arvind K</h4>
+                                    <p style={{ color: 'rgba(22, 118, 243, 1)' }} className='d-lg-none fw-bold'>Update Profile</p>
                                 </>
                             }
                         </div>
 
-                        <div className='list-unstyled mt-2'>
+
+                        <div className='list-unstyled d-none d-lg-block mt-2'>
                             <li className='fw-bold'>{
                                 location.pathname == `/refer/${id}` ? <div>
                                     <img src={jobseker} alt="" />
@@ -117,7 +126,38 @@ const SideBar = () => {
                                 }
                             </li>
                         </div>
-                        <div className='list-unstyled mt-2'>
+
+                        <div className="d-lg-none mt-2">
+                            <Dropdown onToggle={handleDropdownToggle}>
+                                <Dropdown.Toggle className="text-decoration-none text-black" variant="link" id="dropdownMenuLink">
+                                    {
+                                        location.pathname === `/refer/${id}` ? (
+                                            <div>
+                                                <img src={jobseker} alt="" />
+                                                <span className="ms-1">My Jobs</span>
+                                            </div>
+                                        ) : (
+                                            <div>
+                                                <img src={jobseker} alt="" />
+                                                <span className="ms-1">Jobs</span>
+                                            </div>
+                                        )
+                                    }
+                                </Dropdown.Toggle>
+                                <Dropdown.Menu className="dropdown-menu-right dropdown-menu-bottom" show={isDropdownOpen}>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'Favorite Jobs' : 'Marked Jobs'}
+                                    </Dropdown.Item>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'Referred Jobs' : 'Applied Jobs'}
+                                    </Dropdown.Item>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        Closed Jobs
+                                    </Dropdown.Item>
+                                </Dropdown.Menu>
+                            </Dropdown>
+                        </div>
+                        <div className='list-unstyled  d-none d-lg-block  mt-2'>
                             <li className='fw-bold'>
                                 {
                                     location.pathname == `/refer/${id}` ?
@@ -154,6 +194,46 @@ const SideBar = () => {
                             </li>
 
                         </div>
+
+
+                        {/* Small Device */}
+
+                        <div className="list-unstyled d-lg-none mt-2">
+                            <Dropdown onToggle={handleDropdownToggle}>
+                                <Dropdown.Toggle className="text-decoration-none text-black" variant="link" id="dropdownMenuLink">
+                                    {
+                                        location.pathname === `/refer/${id}` ? (
+                                            <div>
+                                                <img style={{ width: '24px' }} src={resume} alt="" />
+                                                <span>My Applications</span>
+                                            </div>
+                                        ) : (
+                                            <div>
+                                                <img src={candidate} alt="" />
+                                                <span className="ms-1">Candidates</span>
+                                            </div>
+                                        )
+                                    }
+                                </Dropdown.Toggle>
+                                <Dropdown.Menu show={isDropdownOpen} className="dropdown-menu-right dropdown-menu-bottom">
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'All' : 'Add a candidate to your database'}
+                                    </Dropdown.Item>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'Under Process' : 'Your Candidate database'}
+                                    </Dropdown.Item>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'Offers' : 'Referred Candidates'}
+                                    </Dropdown.Item>
+                                    <Dropdown.Item active={location.pathname === `/refer/${id}`}>
+                                        {location.pathname === `/refer/${id}` ? 'Closed Jobs' : 'Selected Candidates'}
+                                    </Dropdown.Item>
+                                </Dropdown.Menu>
+                            </Dropdown>
+                        </div>
+
+
+
                         <div className='mt-3 w  list-unstyled'>
                             <li className='fw-bold mb-2'>
                                 <div>
@@ -182,7 +262,12 @@ const SideBar = () => {
                                 <li onClick={handleLogOut} className='fw-bold mb-1  '><div>
                                     <img src={LogOut} alt="" />
                                     <span className='ms-1'>Log Out</span>
-                                </div></li> : <NavLink to='/login' className='fw-bold text-decoration-none text-black mb-1 '>Log in</NavLink>
+                                </div></li> : <NavLink to='/login' className='fw-bold text-decoration-none text-black mb-1 '>
+                                    <div>
+                                        <img src={loginUser} alt="" />
+                                        <span className='ms-1'>Log in</span>
+                                    </div>
+                                </NavLink>
                             }
                         </div>
                     </div>
