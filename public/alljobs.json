@@ -1,0 +1,1422 @@
+[
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "ReactJs Developer",
+        "name": "Google LLC",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2 Years"
+            },
+            {
+                "title": "Adobe XD",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "yearsOfExperience": "2",
+        "applicationReceived": "49",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "ratings": "4.0",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 100000,
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "date": "19.05.2023",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co/JRTpVYF/netflix-4-1.png",
+        "title": "JavaScript Developer",
+        "name": "Netflix",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Master of Computer Application -MCA",
+        "experience": [
+            {
+                "title": "JavaScript",
+                "duration": "1 years"
+            },
+            {
+                "title": "React",
+                "duration": "1 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "ratings": "12.0",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "part-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 75000,
+        "date": "12.05.2023",
+        "annualCTC": "3.4 - 4.5 CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "3",
+        "applicationReceived": "85",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "India"
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "time": "03:30pm",
+        "ratings": "7.0",
+        "yearsOfExperience": "3",
+        "applicationReceived": "85",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "USA"
+    },
+    {
+        "id": 4,
+        "logo": "https://i.ibb.co/qCtqHPb/Group-10021.png",
+        "title": "Marketing Manager",
+        "name": "AIRBNB",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Master of Computer Application - MCA",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "part-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "date": "19.05.2023",
+        "yearsOfExperience": "4",
+        "applicationReceived": "40",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "ratings": "6.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Vutan"
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/JRTpVYF/netflix-4-1.png",
+        "title": "JavaScript Developer",
+        "name": "Amazon",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "yearsOfExperience": "3",
+        "applicationReceived": "102",
+        "date": "17.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "11:25pm",
+        "ratings": "2.0",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "India"
+    },
+    {
+        "id": 6,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "MERN Stack Developer",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2019 - 2023"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2017 - 2019"
+            },
+            {
+                "title": "Junior UI/UX Designer",
+                "duration": "2016 - 2017"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "yearsOfExperience": "4",
+        "applicationReceived": "109",
+        "fullTimePayout": "35",
+        "ratings": "8.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "England"
+    },
+    {
+        "id": 7,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Frontend Developer",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "yearsOfExperience": "1",
+        "applicationReceived": "110",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "ratings": "8.5",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "location": "Vutan"
+    },
+    {
+        "id": 8,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Full Stack Developer",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "1.5 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "17.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "11:25pm",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "2",
+        "applicationReceived": "50",
+        "ratings": "9.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Vutan"
+    },
+    {
+        "id": 9,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Backend developer",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "yearsOfExperience": "5",
+        "applicationReceived": "70",
+        "ratings": "4.0",
+        "fullTimePayout": "35",
+        "location": "India"
+    },
+    {
+        "id": 10,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2019 - 2023"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2017 - 2019"
+            },
+            {
+                "title": "Junior UI/UX Designer",
+                "duration": "2016 - 2017"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "01.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:40am",
+        "ratings": "8.0",
+        "yearsOfExperience": "4",
+        "applicationReceived": "75",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 11,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "payoutPercentage": "Full time payout : 35%",
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "1:25am",
+        "ratings": "9.0",
+        "yearsOfExperience": "5",
+        "applicationReceived": "10",
+        "fullTimePayout": "35",
+        "location": "England"
+    },
+    {
+        "id": 12,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "qualification": "Master of Computer Application -MCA",
+        "date": "07.05.2023",
+        "ratings": "5.5",
+        "annualCTC": "3.5 - 4.5CTC",
+        "yearsOfExperience": "1",
+        "applicationReceived": "15",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "time": "12:25pm",
+        "location": "USA"
+    },
+    {
+        "id": 13,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "yearsOfExperience": "1",
+        "applicationReceived": "10",
+        "salary": 70000,
+        "qualification": "Master of Computer Application -MCA",
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "time": "10: 25am",
+        "ratings": "6.5",
+        "location": "Vutan"
+    },
+    {
+        "id": 14,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Frontend Developer",
+        "name": "Google LLC",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2 Years"
+            },
+            {
+                "title": "Adobe XD",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 100000,
+        "yearsOfExperience": "2",
+        "applicationReceived": "254",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "date": "19.05.2023",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "ratings": "7.8",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "England"
+    },
+    {
+        "id": 15,
+        "logo": "https://i.ibb.co/JRTpVYF/netflix-4-1.png",
+        "title": "Senior Product Designer",
+        "name": "Netflix",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Master of Computer Application -MCA",
+        "experience": [
+            {
+                "title": "JavaScript",
+                "duration": "1 years"
+            },
+            {
+                "title": "React",
+                "duration": "1 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "part-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 75000,
+        "date": "12.05.2023",
+        "yearsOfExperience": "3",
+        "applicationReceived": "90",
+        "annualCTC": "3.4 - 4.5 CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "ratings": "3.0",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 16,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "ratings": "6.0",
+        "annualCTC": "3.5 - 4.5CTC",
+        "yearsOfExperience": "1",
+        "applicationReceived": "98",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "time": "03:30pm",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "England"
+    },
+    {
+        "id": 17,
+        "logo": "https://i.ibb.co/qCtqHPb/Group-10021.png",
+        "title": "Marketing Manager",
+        "name": "AIRBNB",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Master of Computer Application - MCA",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "part-time",
+        "ratings": "9.0",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "date": "19.05.2023",
+        "yearsOfExperience": "4",
+        "applicationReceived": "56",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Vutan"
+    },
+    {
+        "id": 18,
+        "logo": "https://i.ibb.co/JRTpVYF/netflix-4-1.png",
+        "title": "JavaScript Developer",
+        "name": "Amazon",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "17.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "ratings": "5.0",
+        "time": "11:25pm",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "5",
+        "applicationReceived": "747",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "USA"
+    },
+    {
+        "id": 19,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2019 - 2023"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2017 - 2019"
+            },
+            {
+                "title": "Junior UI/UX Designer",
+                "duration": "2016 - 2017"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "years of experience": 2,
+        "applicationReceived": "77",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "ratings": "7.0",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "England"
+    },
+    {
+        "id": 20,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "yearsOfExperience": "1",
+        "applicationReceived": "88",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:25am",
+        "ratings": "8.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "location": "USA"
+    },
+    {
+        "id": 21,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "1.5 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "17.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "11:25pm",
+        "ratings": "9.0",
+        "yearsOfExperience": "2",
+        "applicationReceived": "254",
+        "fullTimePayout": "35",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "England"
+    },
+    {
+        "id": 22,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "ratings": "9.0",
+        "yearsOfExperience": "1",
+        "applicationReceived": "30",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "fullTimePayout": "35",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 23,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "2019 - 2023"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2017 - 2019"
+            },
+            {
+                "title": "Junior UI/UX Designer",
+                "duration": "2016 - 2017"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "01.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "10:40am",
+        "yearsOfExperience": "1",
+        "applicationReceived": "810",
+        "ratings": "12.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "location": "India"
+    },
+    {
+        "id": 24,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "payoutPercentage": "Full time payout : 35%",
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "1:25am",
+        "ratings": "6.0",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "2",
+        "applicationReceived": "260",
+        "location": "Vutan"
+    },
+    {
+        "id": 25,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "qualification": "Master of Computer Application -MCA",
+        "date": "07.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "time": "12:25pm",
+        "yearsOfExperience": "1",
+        "applicationReceived": "750",
+        "ratings": "7.0",
+        "location": "India"
+    },
+    {
+        "id": 26,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "qualification": "Master of Computer Application -MCA",
+        "date": "12.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "ratings": "9.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "fullTimePayout": "35",
+        "time": "10: 25am",
+        "yearsOfExperience": "4",
+        "applicationReceived": "110",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 27,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "payoutPercentage": "Full time payout : 35%",
+        "date": "19.05.2023",
+        "ratings": "9.0",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "time": "1:25am",
+        "yearsOfExperience": "3",
+        "applicationReceived": "46",
+        "fullTimePayout": "35",
+        "location": "England"
+    },
+    {
+        "id": 28,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "payoutPercentage": "Full time payout : 35%",
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "yearsOfExperience": "1",
+        "applicationReceived": "69",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "ratings": "4.0",
+        "location": "England"
+    },
+    {
+        "id": 29,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "MongoDB",
+                "duration": "1 years"
+            },
+            {
+                "title": "Express JS",
+                "duration": "3 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "payoutPercentage": "Full time payout : 35%",
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "yearsOfExperience": "5",
+        "applicationReceived": "79",
+        "time": "1:25am",
+        "fullTimePayout": "35",
+        "ratings": "10.0",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 30,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "yearsOfExperience": "4",
+        "applicationReceived": "110",
+        "ratings": "6.8",
+        "fullTimePayout": "35",
+        "location": "india"
+    },
+    {
+        "id": 31,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "ratings": "8.0",
+        "yearsOfExperience": "2",
+        "applicationReceived": "110",
+        "fullTimePayout": "35",
+        "location": "India"
+    },
+    {
+        "id": 32,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "ratings": "9.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "yearsOfExperience": "1",
+        "applicationReceived": "110",
+        "fullTimePayout": "35",
+        "location": "Vutan"
+    },
+    {
+        "id": 33,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "ratings": "5.3",
+        "yearsOfExperience": "2",
+        "applicationReceived": "110",
+        "fullTimePayout": "35",
+        "location": "India"
+    },
+    {
+        "id": 34,
+        "logo": "https://i.ibb.co/VprTFNb/google-1-1-1.png",
+        "title": "Sales Representative",
+        "name": "MicroSoft",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Remote",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Material UI",
+                "duration": "1.5 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "2 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "salary": 70000,
+        "date": "19.05.2023",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "payoutPercentage": "Full time payout : 35%",
+        "time": "08:25am",
+        "ratings": "9.0",
+        "yearsOfExperience": "3",
+        "applicationReceived": "110",
+        "fullTimePayout": "35",
+        "location": "Bangladesh"
+    },
+    {
+        "id": 35,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "ratings": "6.0",
+        "time": "03:30pm",
+        "yearsOfExperience": "1",
+        "applicationReceived": "110",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "USA"
+    },
+    {
+        "id": 36,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "time": "03:30pm",
+        "ratings": "7.0",
+        "yearsOfExperience": "2",
+        "applicationReceived": "110",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "USA"
+    },
+    {
+        "id": 37,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "ratings": "8.0",
+        "yearsOfExperience": "3",
+        "applicationReceived": "110",
+        "time": "03:30pm",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "USA"
+    },
+    {
+        "id": 38,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "4",
+        "applicationReceived": "110",
+        "time": "03:30pm",
+        "ratings": "10.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Vutan"
+    },
+    {
+        "id": 39,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Malaysia",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "time": "03:30pm",
+        "yearsOfExperience": "1",
+        "applicationReceived": "110",
+        "ratings": "18.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "India"
+    },
+    {
+        "id": 40,
+        "logo": "https://i.ibb.co/XJ3z3m3/tesla-9-1.png",
+        "title": "Tesla",
+        "name": "Software Engineer",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "jobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "RemoteOrOnSIte": "Onsite",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experience": [
+            {
+                "title": "Figma",
+                "duration": "3 years"
+            },
+            {
+                "title": "UI/UX Designer",
+                "duration": "4 years"
+            }
+        ],
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "fulltimeOrPartTime": "full-time",
+        "description": "This is item 1. It is a fictional product with various features and benefits.",
+        "annualCTC": "3.5 - 4.5CTC",
+        "maxBudget": "5.0 CTC",
+        "salary": 60000,
+        "date": "15.05.2023",
+        "fullTimePayout": "35",
+        "yearsOfExperience": "5",
+        "applicationReceived": "110",
+        "time": "03:30pm",
+        "ratings": "13.0",
+        "payoutPercentage": "Full time payout : 35%",
+        "location": "Bangladesh"
+    }
+]
