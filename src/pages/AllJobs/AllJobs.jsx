@@ -27,9 +27,8 @@ const AllJobs = () => {
 
 
 
-    const [sortBy, setSortBy] = useState('');
     const [jobs, setAllJobs] = useState([]);
-    const [jobPage, setJobPage] = useState([]);
+    const [sortBy, setSortBy] = useState('');
     const [sortByRating, setSortByRating] = useState('');
     const [searchLocation, setSearchLocation] = useState('');
     const [searchTitle, setSearchTitle] = useState('');
@@ -37,6 +36,7 @@ const AllJobs = () => {
     const [selectedExperience, setSelectedExperience] = useState('');
 
 
+    
     useEffect(() => {
         fetch('alljobs.json')
             .then(res => res.json())
@@ -45,18 +45,6 @@ const AllJobs = () => {
                 setUniqueLocations([...new Set(data.map(job => job.location))]);
             });
     }, []);
-
-
-    // const totalJob = jobPage.length;
-    // const itemsPerPage = 10;
-
-    // const totalPages = Math.ceil(totalJob / itemsPerPage);
-
-    // const pagesNumber = [...Array(totalPages).keys()];
-
-
-
-
 
     const handleLocationChange = event => {
         const selectedLocation = event.target.innerText;
@@ -75,7 +63,14 @@ const AllJobs = () => {
     return (
         <div className='col-lg-6 ms-lg-3 mt-lg-5'>
             <h2 className='d-none d-lg-block'>All Jobs</h2>
-
+            {/* <input
+                type='search'
+                name='search'
+                id=''
+                className='w-100'
+                placeholder='ui/ux design'
+                onChange={handleTitleSearch}
+            /> */}
             <InputGroup className="mb-3">
                 <Form.Control type='search' name='search' onChange={handleTitleSearch} placeholder='ui/ux design' aria-label="Amount (to the nearest dollar)" />
                 <InputGroup.Text> <FaSearch></FaSearch> </InputGroup.Text>
@@ -180,13 +175,6 @@ const AllJobs = () => {
                         ))}
                 </div>
             </div>
-            {/* <div className='text-center'>
-                <div>
-                    {
-                        pagesNumber.map(number => <button key={number}>{number}</button>)
-                    }
-                </div>
-            </div> */}
         </div>
     );
 };
